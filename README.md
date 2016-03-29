@@ -22,4 +22,4 @@ This web application have two functionalities:
 Libraries used in this application include:
 - Apache Tomcat web server
 - Twilio API, for sending and receiving text messages.
-- Apache Lucene Library, for the "Do you mean..." feature (auto suggestion).
+- Apache Lucene API, for the "Do you mean..." feature (auto suggestion).
