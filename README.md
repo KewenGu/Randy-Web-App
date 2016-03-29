@@ -16,3 +16,10 @@ This web application have two functionalities:
 - The format to input starting location and destination is "The capitalized initials of the building name" + "-" + "room number", eg. "SH-106", "AK-116", "FL-332".
 <br>
 - The format to send text messages is "@" + "name of starting location" + "@" + "name of destination", eg. "@AK310@FL307", "@Fountain@FL-308".
+<br>
+<br>
+<br>
+Libraries used in this web application:
+- Apache Tomcat web server
+- Twilio API, for sending and receiving text messages.
+- Apache Lucene Library, for the "Do you mean..." feature (auto suggestion).
