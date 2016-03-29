@@ -8,7 +8,7 @@ It is a light-weighted Java Servlet running on Apache Tomcat web server.
 This web application have two functionalities:
 <ol>
   <li>Through the website: https://randy-app.herokuapp.com/, user can obtain the shortest path in text by entering a starting location and a destination. </li>
-  <li>Through the photo number: (347)836-5454, user can also obtain the path by sending a text message to the number and specifying a starting location and a destination in the message. </li>
+  <li>Through the photo number: <b>(347)836-5454</b>, user can also obtain the path by sending a text message to the number and specifying a starting location and a destination in the message. </li>
 </ol>
 <br>
 - All the available rooms in our database is included in the <a href="https://github.com/KewenGu/Randy-Web-App/blob/master/Rooms.csv">Rooms.csv</a>.
