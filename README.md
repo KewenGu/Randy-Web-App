@@ -11,7 +11,7 @@ This web application have two functionalities:
   <li>Through the photo number: <b>(347)836-5454</b>, user can also obtain the path by sending a text message to the number and specifying a starting location and a destination in the message. </li>
 </ol>
 <br>
-- All the available rooms in our database is included in the <a href="https://github.com/KewenGu/Randy-Web-App/blob/master/Rooms.csv">Rooms.csv</a>.
+- All the available rooms in our database is included in the <a href="https://github.com/KewenGu/Randy-Web-App/blob/master/Rooms.csv">Rooms.csv</a> file.
 <br>
 - The format to input starting location and destination is "The capitalized initials of the building name" + "-" + "room number", eg. "SH-106", "AK-116", "FL-332".
 <br>
